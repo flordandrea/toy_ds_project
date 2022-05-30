@@ -1,1 +1,2 @@
-# toy_ds_project
+# Data science project
+Author: Florencia D'Andrea
